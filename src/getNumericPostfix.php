@@ -15,6 +15,6 @@ function getNumericPostfix($n, $form1, $form2, $form5)
     if ($n1 == 1) {
         return $form1;
     }
-    
+
     return $form5;
 }

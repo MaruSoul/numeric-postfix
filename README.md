@@ -5,7 +5,7 @@
 Via Composer
 
 ``` bash
-$ composer require marysoul/numeric-postfix
+$ composer require marusoul/numeric-postfix
 ```
 
 ## Usage
