@@ -1,0 +1,19 @@
+{
+    "name": "marusoul/numeric-postfix",
+    "autoload": {
+        "files": [
+            "src/getNumericPostfix.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "MaruSoul",
+            "email": "soulmeri0@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^5.3 || ^7.0 || ^8.0"
+    },
+    "license": "MIT",
+    "type": "library"
+}
